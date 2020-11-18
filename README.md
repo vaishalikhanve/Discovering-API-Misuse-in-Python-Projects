@@ -1,0 +1,2 @@
+# Discovering-API-Misuse-in-Python-Projects
+The project aims at detecting API use and misuse in Python projects along with the taxonomy of API misuse. The command-line tool identifies API misuses in the given Python code snippet with the use of patterns obtained from API usages extracted from GitHub. We introduced a novel pattern mining algorithm and application of the State Machine concept to the domain of API misuse detection.
